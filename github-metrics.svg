@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.6265587382205" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="352.6265587382205" y="0" width="50.40608905773759" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.03264779595816" y="0" width="28.035063561366613" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.06771135732475" y="0" width="17.77122780683622" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="448.838939164161" y="0" width="5.176091421295882" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="454.0150305854568" y="0" width="3.67921229910941" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.6942428845662" y="0" width="0.9157823362144276" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.6100252207807" y="0" width="1.3899747792192918" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.15184013774234" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="352.15184013774234" y="0" width="50.338230561376186" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.4900706991185" y="0" width="28.61659034940996" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.1066610485285" y="0" width="17.747303538558107" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="448.8539645870866" y="0" width="5.16912318020747" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="454.0230877672941" y="0" width="3.674259210721101" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.69734697801516" y="0" width="0.9145494769807215" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.61189645499593" y="0" width="1.3881035450041148" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2336,6 +2336,48 @@
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d6caedb</div>
+                                        <div class="message">Update ColorOverlay.html</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Sept 2025, 03:41:15</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunyanjie/hunyanjie.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#088c4dc</div>
+                                        <div class="message">Create ColorOverlay.html</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Sept 2025, 03:39:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunyanjie/hunyanjie.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#7ecd95d</div>
@@ -2471,54 +2513,12 @@
                                 <div class="timestamp">15 Sept 2025, 02:24:37</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hunyanjie/hunyanjie.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#49ae4ed</div>
-                                        <div class="message">Update index.html</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2025, 02:24:22</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hunyanjie/hunyanjie.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d9d5f5f</div>
-                                        <div class="message">Update index.html</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2025, 02:23:04</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2025, 03:19:51 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2025, 04:32:21 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
